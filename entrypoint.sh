@@ -38,7 +38,6 @@ On_Yellow='\e[43m'        # Yellow
 On_Light_Red='\e[101m'    # Light Red
 On_Light_Blue='\e[104m'   # Light Blue
 
-mkdir -p "/tmp/video/";
 shopt -s nullglob;
 
 echo -e "${Reverse}Next to each video there will be an output folder created containing all files for HLS/ DASH streaming.";
