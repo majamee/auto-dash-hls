@@ -67,4 +67,4 @@ do
     fi
 done
 
-echo -e "\n${Reverse}Please do not forget about the ".htaccess"-file next to all other created files inside the output folder${Reverse_Off}\n";
+echo -e "\n${Reverse}Please do not forget about the ".htaccess" file next to all other created files inside the output folder${Reverse_Off}\n";
