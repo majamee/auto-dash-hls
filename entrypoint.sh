@@ -45,7 +45,7 @@ echo -e "${Reverse_Off}${Green}${Bold}\nStarting processing ${1}${Bold_Off}${Col
 cd /video/$1;
 for file in *
 do
-    if ( [ -d "${file}" ] && [${file} != "output"] ); then
+    if ( [ -d "${file}" ] && ["${file}" != "output"] ); then
         /bin/entrypoint.sh "${1}/${file}";
     else
         if ( [ ${file: -4} == ".avi" ] || [ ${file: -4} == ".mkv" ] || [ ${file: -4} == ".mp4" ] || [ ${file: -4} == ".wmv" ] || [ ${file: -4} == ".ts" ] || [ ${file: -4} == ".mov" ] || [ ${file: -4} == ".flv" ] || [ ${file: -4} == ".webm" ] ); then
