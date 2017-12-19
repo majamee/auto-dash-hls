@@ -29,4 +29,4 @@ Folders can not be named `output` within the transcoding folder as folders named
 * Automatically scans the folder recursively for supported video files for transcoding
 * Creates `.auto-hls-dash` file in provided root directory for file skipping in sub-sequent calls
 * Creates all output files neatly stored in a sub-folder matching the video file name in the folder `output` next to the transcoded video file
-* Adds also HTML file including code for inclusion into the own website for playback next to all other created files
+* Adds also HTML and `.htaccess` file including code ready for inclusion into the own website for playback next to all other created files
