@@ -28,5 +28,5 @@ Folders can not be named `output` within the transcoding folder as folders named
 * Creates master M3U8-Playlist for HLS
 * Automatically scans the folder recursively for supported video files for transcoding
 * Creates `.auto-hls-dash` file in provided root directory for file skipping in sub-sequent calls
-* Creates all output files neatly stored in an `output` folder next to the video file in a sub-folder matching the video file name
-* Adds HTML files for playback ready to be included into the own website into the `output` folder next to the other created files
+* Creates all output files neatly stored in a sub-folder matching the video file name in the folder `output` next to the transcoded video file
+* Adds HTML files for playback ready to be included into the own website into the `output` folder next to all other created files
