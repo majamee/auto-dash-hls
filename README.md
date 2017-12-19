@@ -30,3 +30,4 @@ Folders can not be named `output` within the transcoding folder as folders named
 * Creates `.auto-hls-dash` file in provided root directory for file skipping in sub-sequent calls
 * Creates all output files neatly stored in a sub-folder matching the video file name in the folder `output` next to the transcoded video file
 * Adds also HTML and `.htaccess` file including code ready for inclusion into the own website for playback next to all other created files
+* Included player is a creation of the great guys at [Plyr](https://plyr.io/)
