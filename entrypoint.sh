@@ -1,4 +1,4 @@
-auto-dash-hls#!/bin/bash
+#!/bin/bash
 
 # Text formatting details @https://misc.flogisoft.com/bash/tip_colors_and_formatting
 # Reset
