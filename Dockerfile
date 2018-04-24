@@ -1,4 +1,4 @@
-FROM        majamee/alpine-dash-hls
+FROM        majamee/alpine-dash-hls:latest
 
 COPY        ./entrypoint.sh /bin/entrypoint.sh
 RUN         chmod +x /bin/entrypoint.sh
