@@ -14,7 +14,7 @@ Prerequisite: [Docker](https://www.docker.com/) needs to be installed and runnin
 docker pull majamee/auto-dash-hls
 docker run -v /absolute/path/to/video/:/video majamee/auto-dash-hls
 ```
-Please just replace in the command above the absolute path to your video file folder and all videos inside (recursive) will be converted to web-optimized DASH/ HLS compatible files (protected against up-scaling).
+Please just replace in the command above the absolute path to your video file folder and all videos inside (recursive) will be converted to web-optimized DASH/ HLS compatible files (protected against up-scaling). You can also use [tags](https://hub.docker.com/r/majamee/auto-dash-hls/tags/) like `majamee/auto-dash-hls:edge` (e.g. uses [alpine](https://hub.docker.com/_/alpine/)'s edge version as base).
 
 Folders can not be named `output` within the transcoding folder as folders named `output` are skipped to prevent re-encoding already encoded videos.
 
