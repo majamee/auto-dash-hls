@@ -1,6 +1,6 @@
 [![](https://images.microbadger.com/badges/version/majamee/auto-dash-hls.svg)](https://microbadger.com/images/majamee/auto-dash-hls) [![](https://images.microbadger.com/badges/image/majamee/auto-dash-hls.svg)](https://microbadger.com/images/majamee/auto-dash-hls) | 
-[![Docker Automated build](https://img.shields.io/docker/automated/majamee/auto-dash-hls.svg)]() [![Docker Build Status](https://img.shields.io/docker/cloud/build/majamee/auto-dash-hls.svg)]() | 
-[![Docker Stars](https://img.shields.io/docker/stars/majamee/auto-dash-hls.svg?style=social)]() [![Docker Pulls](https://img.shields.io/docker/pulls/majamee/auto-dash-hls.svg?style=social)]()
+[![](https://img.shields.io/docker/automated/majamee/auto-dash-hls.svg)](https://hub.docker.com/r/majamee/auto-dash-hls/?target=_blank) [![](https://img.shields.io/docker/cloud/build/majamee/auto-dash-hls.svg)](https://hub.docker.com/r/majamee/auto-dash-hls/?target=_blank) |
+[![](https://img.shields.io/docker/stars/majamee/auto-dash-hls.svg?style=social)](https://hub.docker.com/r/majamee/auto-dash-hls/?target=_blank) [![](https://img.shields.io/docker/pulls/majamee/auto-dash-hls.svg?style=social)](https://hub.docker.com/r/majamee/auto-dash-hls/?target=_blank)
 
 # auto-dash-hls
 Automated toolchain for generating DASH/ HLS compatible files from all videos inside a root folder.
