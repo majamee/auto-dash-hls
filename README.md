@@ -2,7 +2,7 @@
 [![](https://img.shields.io/docker/automated/majamee/auto-dash-hls.svg)](https://hub.docker.com/r/majamee/auto-dash-hls/?target=_blank) [![](https://img.shields.io/docker/cloud/build/majamee/auto-dash-hls.svg)](https://hub.docker.com/r/majamee/auto-dash-hls/?target=_blank) |
 [![](https://img.shields.io/docker/stars/majamee/auto-dash-hls.svg?style=social)](https://hub.docker.com/r/majamee/auto-dash-hls/?target=_blank) [![](https://img.shields.io/docker/pulls/majamee/auto-dash-hls.svg?style=social)](https://hub.docker.com/r/majamee/auto-dash-hls/?target=_blank)
 
-# auto-dash-hls
+# Auto Dash HLS
 Automated toolchain for generating DASH/ HLS compatible files from all videos inside a root folder.
 
 Recommended usage via Docker [Kitematic](https://kitematic.com/) & [Docker Hub](https://hub.docker.com/r/majamee/auto-dash-hls/).
