@@ -37,4 +37,4 @@ Folders can not be named `output` within the transcoding folder as folders named
 * Included player (`index.html`) is based on the great work of the guys at [Video.js](http://videojs.com/) 
 
 # Demo
-[https://majamee.000webhostapp.com/demos](https://majamee.000webhostapp.com/demos/?target=_blank)
+[https://majamee.de/demos](https://majamee.de/demos/?target=_blank)
