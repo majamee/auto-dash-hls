@@ -1,8 +1,7 @@
-[![](https://images.microbadger.com/badges/version/majamee/auto-dash-hls.svg)](https://microbadger.com/images/majamee/auto-dash-hls) [![](https://images.microbadger.com/badges/image/majamee/auto-dash-hls.svg)](https://microbadger.com/images/majamee/auto-dash-hls) | 
 [![Docker Automated build](https://img.shields.io/docker/automated/majamee/auto-dash-hls.svg)]() [![Docker Build Status](https://img.shields.io/docker/cloud/build/majamee/auto-dash-hls.svg)]() | 
 [![Docker Stars](https://img.shields.io/docker/stars/majamee/auto-dash-hls.svg?style=social)]() [![Docker Pulls](https://img.shields.io/docker/pulls/majamee/auto-dash-hls.svg?style=social)]()
 
-# auto-dash-hls
+# Auto Dash HLS
 Automated toolchain for generating DASH/ HLS compatible files from all videos inside a root folder.
 
 Recommended usage via Docker [Kitematic](https://kitematic.com/) & [Docker Hub](https://hub.docker.com/r/majamee/auto-dash-hls/).
@@ -37,4 +36,4 @@ Folders can not be named `output` within the transcoding folder as folders named
 * Included player (`index.html`) is based on the great work of the guys at [Video.js](http://videojs.com/) 
 
 # Demo
-[http://alpine-dash-hls.gq/demos](http://alpine-dash-hls.gq/demos/?target=_blank)
+[https://majamee.de/demos](https://majamee.de/demos/?target=_blank)
