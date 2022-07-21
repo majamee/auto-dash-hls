@@ -1,5 +1,5 @@
-[![Docker Automated build](https://img.shields.io/docker/automated/majamee/auto-dash-hls.svg)]() [![Docker Build Status](https://img.shields.io/docker/cloud/build/majamee/auto-dash-hls.svg)]() | 
-[![Docker Stars](https://img.shields.io/docker/stars/majamee/auto-dash-hls.svg?style=social)]() [![Docker Pulls](https://img.shields.io/docker/pulls/majamee/auto-dash-hls.svg?style=social)]()
+[![Docker Automated build](https://img.shields.io/docker/automated/majamee/auto-dash-hls.svg)](https://hub.docker.com/r/majamee/auto-dash-hls/?target=_blank) [![Docker Build Status](https://img.shields.io/docker/cloud/build/majamee/auto-dash-hls.svg)](https://hub.docker.com/r/majamee/auto-dash-hls/?target=_blank) | 
+[![Docker Stars](https://img.shields.io/docker/stars/majamee/auto-dash-hls.svg?style=social)](https://hub.docker.com/r/majamee/auto-dash-hls/?target=_blank) [![Docker Pulls](https://img.shields.io/docker/pulls/majamee/auto-dash-hls.svg?style=social)](https://hub.docker.com/r/majamee/auto-dash-hls/?target=_blank)
 
 # Auto Dash HLS
 Automated toolchain for generating DASH/ HLS compatible files from all videos inside a root folder.
