@@ -4,7 +4,7 @@
 # Auto Dash HLS
 Automated toolchain for generating DASH/ HLS compatible files from all videos inside a root folder.
 
-Recommended usage via Docker [Kitematic](https://kitematic.com/) & [Docker Hub](https://hub.docker.com/r/majamee/auto-dash-hls/).
+Recommended usage via Docker [Docker Desktop](https://www.docker.com/products/docker-desktop/?target=_blank) & [Docker Hub](https://hub.docker.com/r/majamee/auto-dash-hls/).
 
 ## Usage
 Prerequisite: [Docker](https://www.docker.com/) needs to be installed and running.
