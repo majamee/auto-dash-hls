@@ -1,4 +1,4 @@
-[![Docker Automated build](https://img.shields.io/docker/automated/majamee/auto-dash-hls.svg)](https://hub.docker.com/r/majamee/auto-dash-hls/?target=_blank) [![Docker Build Status](https://img.shields.io/docker/cloud/build/majamee/auto-dash-hls.svg)](https://hub.docker.com/r/majamee/auto-dash-hls/?target=_blank) | 
+[![Docker Image CI](https://github.com/majamee/auto-dash-hls/actions/workflows/docker-image.yml/badge.svg?branch=edge)](https://github.com/majamee/auto-dash-hls/actions/workflows/docker-image.yml)  | 
 [![Docker Stars](https://img.shields.io/docker/stars/majamee/auto-dash-hls.svg?style=social)](https://hub.docker.com/r/majamee/auto-dash-hls/?target=_blank) [![Docker Pulls](https://img.shields.io/docker/pulls/majamee/auto-dash-hls.svg?style=social)](https://hub.docker.com/r/majamee/auto-dash-hls/?target=_blank)
 
 # Auto Dash HLS
