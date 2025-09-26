@@ -34,6 +34,3 @@ Folders can not be named `output` within the transcoding folder as folders named
 * Included fallback player (`plyr.html`) is based on the great work of the guys at [Plyr](https://plyr.io/) 
 * Included second fallback player (`fluid-player.html`) is based on the great work of the guys at [Fluid Player](https://github.com/fluid-player/fluid-player) 
 * Included player (`index.html`) is based on the great work of the guys at [Video.js](http://videojs.com/) 
-
-# Demo
-[https://majamee.de/demos](https://majamee.de/demos/?target=_blank)
